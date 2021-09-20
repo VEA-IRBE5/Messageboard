@@ -1,2 +1,2 @@
 # Messageboard
-Vispārīgi ziņojumi
+Visiem te ir rediģēšanas piekļuve :)
