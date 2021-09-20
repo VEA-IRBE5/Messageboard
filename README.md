@@ -1,0 +1,2 @@
+# Messageboard
+Vispārīgi ziņojumi
