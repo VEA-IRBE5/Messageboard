@@ -1,9 +1,10 @@
 # Messageboard
 - Visiem te ir rediģēšanas piekļuve :)
-- Lūdzu netaupiet aprakstošō komentārus, tas pēc tam atvieglos atskaites rakstīšanu
+- Lūdzu netaupiet aprakstošos komentārus, tas pēc tam atvieglos atskaites rakstīšanu
+- Ja kaut kas nav skaidrs, droši prasiet Jēkabam
 
 
-# ----------------------------------------------------------------------
+# ----------------------------------------------------------------
 # Manuālis - TLDR versija
 ## Inicializācija
 1. git config --global user.name "Vards Uzvards"
@@ -21,7 +22,8 @@
 4. git add .
 5. git commit -m "text" (izņem -m "text" ja gribi izmantot teksta editoru)
 6. git push IRBE5 [Branch name] (augšupielādē zara saturu uz repozitoriju no tava datora)
-7. Uz main zaru izmaiņas nestumj pa taisno, veido atsevišķu zaru, tad caur pull request apvieno ar main 
+7. Uz main zaru izmaiņas nestumj pa taisno, veido atsevišķu zaru, tad caur pull request apvieno ar main
+8. Iepriekšējais neattiecas uz README koriģēšanu githubā
 
 ## Github pull rquest
 1. Spiež Pull requests, tad zaļā poga
@@ -33,7 +35,7 @@
 
 
 
-# ----------------------------------------------------------------------
+# ----------------------------------------------------------------
 # Zaru lietošana
 - Katrā repozitorijā tikai galvenajam nodaļas inženierim ir atļauja rediģēt main zaru
 - Bez šīs atļaujas mēģinājums veikt push uz main zaru tiks noraidīts
