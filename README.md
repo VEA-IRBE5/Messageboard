@@ -1,7 +1,7 @@
 # Messageboard
 - Visiem te ir rediģēšanas piekļuve :)
 - Lūdzu netaupiet aprakstošos komentārus, tas pēc tam atvieglos atskaites rakstīšanu
-- Ja kaut kas nav skaidrs, droši prasiet Jēkabam
+- Ja kaut kas par github nav skaidrs, droši prasiet Jēkabam
 
 
 # ----------------------------------------------------------------
