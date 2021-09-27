@@ -19,7 +19,7 @@
 1. git pull IRBE5 [Branch name] (lejupielādē zaru no repozitorijas)
 2. git branch [branch name] (izveido jaunu zaru)
 3. git switch [branch name] (pārslēdzas uz zaru)
-4. git add .
+4. git add filename.dat (git add .   pievieno visas izmaiņas)
 5. git commit -m "text" (izņem -m "text" ja gribi izmantot teksta editoru)
 6. git push IRBE5 [Branch name] (augšupielādē zara saturu uz repozitoriju no tava datora)
 7. Uz main zaru izmaiņas nestumj pa taisno, veido atsevišķu zaru, tad caur pull request apvieno ar main
