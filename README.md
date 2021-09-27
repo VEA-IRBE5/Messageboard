@@ -13,7 +13,7 @@
 4. git config --global init.defaultBranch main
 5. git config --list
 6. git init
-7. git remote add IRBE5 https://github.com/VEA-IRBE5/[Repository name].git (Elektronika/Mehatronika/Programmejums)
+7. git remote add IRBE5 https://github.com/VEA-IRBE5/Repositoryname.git (Elektronika/Mehatronika/Programmejums)
 
 ## Lietošana lokāli
 1. git pull IRBE5 [Branch name] (lejupielādē zaru no repozitorijas)
